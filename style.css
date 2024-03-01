@@ -26,7 +26,7 @@ body {
 .botao {
     width: 100%;
     padding: 10px;
-    background-color: #ffffff;
+    background-color: #eeff02;
     border: none;
     border-radius: 100px;
     color: #fff;
@@ -35,7 +35,8 @@ body {
     margin-left: 0%;
     font-weight: bold;
     margin-right: 50px;
-  }
+    
+    }
 
   .botoes{
     text-decoration: none;
